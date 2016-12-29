@@ -1,0 +1,30 @@
+languageCode = "en-us"
+title = "Jacob J Webber"
+baseurl = "http://jacobjwebber.github.io/"
+
+[params]
+    GithubID = "jacobjwebber"
+    #TwitterID = "your_twitter"
+    LinkedInID = "jacobjwebber"
+    #GoogleplusID = "your_googleplus"
+    #FacebookID = "your_facebook"
+    Name = "JJW"
+    HeaderUsername = "jjw"
+    HeaderHostname = "jacobjwebber"
+    Email = "jacobjwebber+website@gmail.com"
+    About = "My name is Jacob. I am currently studying for a Masters \
+             in High Performance Computing at The University of Edinburgh. \
+             I play the violin, have a degree in Physics and Music, and \
+             enjoy using computer programming to combine all of these."
+    ProfilePicture = "/profile.jpg"
+    #GoogleAnalytics = "your_google_analytics_id"
+
+[menu]
+    [[menu.header]]
+         name = "post"
+         weight = 0
+         url = "/post"
+    [[menu.header]]
+         name = "about"
+         weight = 1
+         url = "/about"
