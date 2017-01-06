@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Jacob J Webber"
-baseurl = "http://jacobjwebber.github.io/"
+baseurl = "https://jacobjwebber.github.io/"
 
 [params]
     GithubID = "jacobjwebber"
