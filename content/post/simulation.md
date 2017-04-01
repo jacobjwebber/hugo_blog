@@ -74,9 +74,9 @@ us to answer? If we are created by some higher order life form in some
 higher order universe, what does that make our creators?
 
 Here we move away from the realm of science and into the realm of belief
-- where, whatever Elon Musk or Richard Dawkins might tell you, somebody
+where, whatever Elon Musk or Richard Dawkins might tell you, somebody
 proficient in computer programming and familiar with the laws of physics
 is no better qualified to provide solutions than any of the great
-thinkers who has considered these unanswerable questions before.
+thinkers who has considered these unanswerable questions.
 
 
