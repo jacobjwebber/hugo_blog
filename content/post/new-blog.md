@@ -1,7 +1,7 @@
 +++
 date = "2016-12-29T20:07:17Z"
 title = "Building a Personal Website with Hugo"
-draft = true
+draft = false
 
 +++
 
